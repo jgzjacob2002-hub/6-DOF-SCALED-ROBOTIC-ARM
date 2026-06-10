@@ -41,8 +41,7 @@ The main objective of this project is to demonstrate the practical application o
 ## 📂 Repository Structure
 * `/src_matlab/`: D-H, Jacobian, and trajectory generation scripts.
 * `/src_arduino/`: `.ino` source code for data reception and servo control.
-* `/cad_models/`: Base files for the structural mechanical design.
-* `/docs/`: Coordinate system diagrams and applied D-H matrices.
+
 
 ---
 *Developed as an industrial robotics integration project, combining mathematical calculation, computational simulation, and hardware control.*
