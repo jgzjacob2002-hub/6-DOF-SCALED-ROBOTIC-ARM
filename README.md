@@ -15,7 +15,6 @@ The main objective of this project is to demonstrate the practical application o
 * **Inverse Kinematics:** Resolution of the spatial position and orientation of the end-effector using matrix algebra and **Jacobian** matrix calculations, enabling smooth and precise motion transitions.
 * **Trajectory Planning:** Programming algorithms to generate paths within the workspace. The system can execute anything from simple geometries (like circles defined in Cartesian space) to highly complex, dynamic, and chaotic trajectories.
 * **Digital Twin (Simulation vs. Reality):** A graphical interface developed in MATLAB that renders the robot in 3D, allowing the visualization of the calculated trajectory simultaneously with the physical execution of the robotic arm.
-* **Mechanical Design:** The structural parts of the manipulator were 3D modeled using **SolidWorks**, ensuring assembly viability and physical joint constraints.
 
 ## 🛠️ Technologies & Hardware
 
