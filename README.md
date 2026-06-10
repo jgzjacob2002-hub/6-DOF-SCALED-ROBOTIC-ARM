@@ -3,7 +3,6 @@
 ![Robotics](https://img.shields.io/badge/Robotics-6%20DOF-blue)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulation%20%26%20Kinematics-orange)
 ![Arduino](https://img.shields.io/badge/Arduino-Hardware%20Control-00979D)
-![CAD](https://img.shields.io/badge/SolidWorks-Mechanical%20Design-red)
 
 ## 📖 About the Project
 This repository contains the development, mathematical calculation, and control of a 6 Degree of Freedom (6-DOF) scaled articulated robotic arm. The project operates as a **Digital Twin**, featuring a co-simulation environment: motion calculation and visualization are executed in a virtual MATLAB environment, while instructions are transmitted in real-time to replicate the exact movement on the physical hardware.
